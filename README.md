@@ -9,7 +9,7 @@ Computer Vision Nanodegree is composed of 3 main modules each with an associated
 This part covers the math and programming concepts behind the pattern recognition and classication tasks in Computer Vision.
 - how to isolate important information about an object in an image (i.e. shape/color)
 - ignore irrelevant parts of an image (and so to keep the relevant information) ie. background/noise
-- day/night image classification, Fourier Transform, Gaussian Blur, Canny Edge Detection, Hough Circle Detection, Haar Cascade Face Detectionare and constucting CNN layers to classify FashionMNIST dataset are some of the topics that are covered in this section. 
+- day/night image classification, Fourier Transform, Gaussian Blur, Canny Edge Detection, Hough Circle Detection, Haar Cascade Face Detection and constucting CNN layers to classify FashionMNIST dataset are some of the topics covered in this module. 
 - Facial Keypoint Detection is the final project requires combining image processing techniques and deep learning techniques to detect faces in any image and then to detect facial keypoints such as eyes, noise, month etc. After completing the project it has to be submitted and reviewed by Udacity team in order to continue with the Nanodegree and to earn the certification. 
 
 ### 2. Advanced Deep Learning & Computer Vision
