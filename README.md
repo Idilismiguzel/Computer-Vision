@@ -13,7 +13,7 @@ This part covers the math and programming concepts behind the pattern recognitio
 - Facial Keypoint Detection is the final project requires combining image processing techniques and deep learning techniques to detect faces in any image and then to detect facial keypoints such as eyes, noise, month etc. After completing the project it has to be submitted and reviewed by Udacity team in order to continue with the Nanodegree and to earn the certification. 
 
 ### 2. Advanced Deep Learning & Computer Vision
-This is by far my favourite module in the Nanodegree covering the state-of.the-art advances in CV. 
+This is by far my favourite module in the Nanodegree covering the state-of-the-art advances in Computer Vision.
 - covers Faster R-CNNs that identify where object in an image, 
 - YOLO code implementation
 - RNNs for generating sequences of data.
