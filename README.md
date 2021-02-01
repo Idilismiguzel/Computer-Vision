@@ -20,7 +20,7 @@ This is by far my favourite module in the Nanodegree covering the state-of-the-a
 - Faster R-CNNs to identify where object in an image, LSTM, YOLO for fast multiple object detection, RNN for generating sequences of data and Attention concept in Computer Vision are some of the main topics covered.
 - Automatic Image Captioning is the final project of the module requires to create a deep learning architecture with two components: a CNN to transform the input image into a set of features, an RNN that turns those features into descriptive text aka captions. Same as before, after completing the project it has to be submitted and reviewed by Udacity team.
 <p align="center">
-  <img src="./images/P2.png" width=50% height=50% />
+  <img src="./images/P2.png" width=80% height=80% />
 </p>
 
 ### 3. Object Tracking and Locatization
