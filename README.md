@@ -10,7 +10,7 @@ This part covers the math and programming concepts behind the pattern recognitio
 - how to isolate important information about an object in an image (i.e. shape/color)
 - ignore irrelevant parts of an image (and so to keep the relevant information) ie. background/noise
 - day/night image classification, Fourier Transform, Gaussian Blur, Canny Edge Detection, Hough Circle Detection, Haar Cascade Face Detection and constucting CNN layers to classify FashionMNIST dataset are some of the topics covered in this module. 
-- Facial Keypoint Detection is the final project requires combining image processing techniques and deep learning techniques to detect faces in any image and then to detect facial keypoints such as eyes, noise, month etc. After completing the project it has to be submitted and reviewed by Udacity team in order to continue with the Nanodegree and to earn the certification. 
+- [Facial Keypoint Detection](https://github.com/Idilismiguzel/Facial-Keypoints-Detection) is the final project requires combining image processing techniques and deep learning techniques to detect faces in any image and then to detect facial keypoints such as eyes, noise, month etc. After completing the project it has to be submitted and reviewed by Udacity team in order to continue with the Nanodegree and to earn the certification. 
 
 ### 2. Advanced Deep Learning & Computer Vision
 This is by far my favourite module in the Nanodegree covering the state-of-the-art advances in Computer Vision.
