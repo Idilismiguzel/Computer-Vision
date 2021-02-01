@@ -6,7 +6,7 @@ Code and document samples generated while following Udacity's [Computer Vision N
 Computer Vision Nanodegree is composed of 3 main modules each with an associated project. 
 
 ### 1. Computer Vision Introduction
-This part covers the math and programming concepts behind the pattern recognition and classication tasks in CV. It teaches
+This part covers the math and programming concepts behind the pattern recognition and classication tasks in Computer Vision.
 - how to isolate important information about an object in an image (i.e. shape/color)
 - ignore irrelevant parts of an image (and so to keep the relevant information) ie. background/noise
 - day/night image classification, Fourier Transform, Gaussian Blur, Canny Edge Detection, Hough Circle Detection, Haar Cascade Face Detectionare and constucting CNN layers to classify FashionMNIST dataset are some of the topics that are covered in this section. 
