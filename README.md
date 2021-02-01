@@ -14,7 +14,7 @@ This part covers the math and programming concepts behind the pattern recognitio
 
 ### 2. Advanced Deep Learning & Computer Vision
 This is by far my favourite module in the Nanodegree covering the state-of-the-art advances in Computer Vision.
-- covers Faster R-CNNs that identify where object in an image, LSTMs, YOLO implementation, RNNs for generating sequences of data and Attention concept
+- covers Faster R-CNNs to identify where object in an image, LSTM, YOLO implementation, RNN for generating sequences of data and Attention basics
 - Automatic Image Captioning is the final project of the module requires to create a deep learning architecture with two components: a CNN to transform the input image into a set of features, an RNN that turns those features into descriptive text aka captions. Same as before, after completing the project it has to be submitted and reviewed by Udacity team.
 
 ### 3. Object Tracking and Locatization
