@@ -17,9 +17,9 @@ This is by far my favourite module in the Nanodegree covering the state-of.the-a
 - covers Faster R-CNNs that identify where object in an image, 
 - YOLO code implementation
 - RNNs for generating sequences of data.
-- Automatic Image Captioning is the final project of the module requires to create a deep learning architecture with 2 components: a CNN to transform the input image into a set of features, a RNN that turns those features into rich, descriptive text. Same as before, After completing the project it has to be submitted and reviewed by Udacity team.
+- Automatic Image Captioning is the final project of the module requires to create a deep learning architecture with two components: a CNN to transform the input image into a set of features, an RNN that turns those features into descriptive text aka captions. Same as before, after completing the project it has to be submitted and reviewed by Udacity team.
 
 ### 3. Object Tracking and Locatization
 This module covers the object tracking techniques using spatial information that gathered over time and how to predict the location of an object and determining its movement. 
 - module is starring Sebastian Thrun to teach ongoing reseach area of autonomous vehicles like self driving cars.
-- Landmark Detection and Trqacking (SLAM) is the final project of the course and also the Nanodegree requires to implement a rpbust model for tracking object over time using elements of probability, linear algebra and motion models. You need to use feature detection and keypoint descriptors to build a map of the environment with Simultaneous Locatization and Mapping (SLAM). 
+- Landmark Detection and Tracking (SLAM) is the final project of the course and also the Nanodegree requires to implement a robust model for tracking object over time using probability, linear algebra and motion models. You need to use feature detection and keypoint descriptors to build a map of the environment with Simultaneous Locatization and Mapping (SLAM). Also this project has to be submitted and reviewed by Udacity team.
