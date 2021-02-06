@@ -1,6 +1,6 @@
 # Computer Vision
 
-Code and document samples generated while following Udacity's [Computer Vision Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Computer+Vision+Nanodegree+Syllabus.pdf) Program.
+Code and document samples generated while following Udacity's [Computer Vision Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Computer+Vision+Nanodegree+Syllabus.pdf) Program. 👀💫⚡
 
 ## Nanodegree Content
 Computer Vision Nanodegree is composed of 3 main modules each with an associated project. 
